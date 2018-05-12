@@ -1,0 +1,35 @@
+_repo: A-Thin-Ghost-and-Others_20387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, Montague Rhodes
+    - James, M.R.
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+description: ''
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2007-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Horror tales, English'
+- !lcsh 'Ghost stories, English'
+- !lcsh 'Short stories, English'
+tableOfContents: The residence at Whitminster -- The diary of Mr. Poynter -- An episode
+  of cathedral history -- The story of a disappearance and an appearance -- Two doctors.
+title: A Thin Ghost and Others
+url: http://www.gutenberg.org/ebooks/20387
